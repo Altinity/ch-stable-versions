@@ -1,0 +1,39 @@
+{
+  "amazon": {
+    "regions": {
+      "us-east-1": "ami-026c8acd92718196b",
+      "us-east-2": "ami-0986c2ac728528ac2",
+      "us-west-1": "ami-068670db424b01e9a",
+      "us-west-2": "ami-07b4f3c02c7f83d59",
+      "ap-south-1": "ami-04125d804acca5692",
+      "ap-northeast-2": "ami-0794a2d1e6d99117a",
+      "ap-southeast-1": "ami-0bb35a5dad5658286",
+      "ap-southeast-2": "ami-06705195ce845509c",
+      "ap-northeast-1": "ami-09b68f5653871885f",
+      "ca-central-1": "ami-0c2a0ac8b164db9e6",
+      "eu-central-1": "ami-009c174642dba28e4",
+      "eu-west-1": "ami-01e6a0b85de033c99",
+      "eu-west-2": "ami-0c30afcb7ab02233d",
+      "eu-west-3": "ami-0119667e27598718e",
+      "eu-north-1": "ami-88de55f6",
+      "sa-east-1": "ami-0dcf15c37a41c965f"
+    },
+    "versions": [
+      "18.5.1",
+      "18.14.19",
+      "19.7.3.9",
+      "19.9.4.34",
+      "19.13.1.11"
+    ]
+  },
+  "docker": [
+    {"code": "test", "name": "test"}
+  ],
+  "kubernetes": [
+    {"code": "18.5.1", "name": "18.5.1"},
+    {"code": "18.14.19", "name": "18.14.19"},
+    {"code": "19.7.3.9", "name": "19.7.3.9"},
+    {"code": "19.9.4.34", "name": "19.9.4.34"},
+    {"code": "19.13.1.11", "name": "19.13.1.11"}
+  ]
+}
