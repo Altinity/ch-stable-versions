@@ -31,7 +31,7 @@
   "kubernetes": [
     {"code": "18.14.19", "name": "18.14.19  Altinity Stable"},
     {"code": "19.9.3.31", "name": "19.9.3.31"},
-    {"code": "19.11.8.46", "name": "19.11.8 Altinity Stable"}
+    {"code": "19.11.8.46", "name": "19.11.8 Altinity Stable"},
     {"code": "19.14.3.3", "name": "19.14.3.3"}
   ]
 }
