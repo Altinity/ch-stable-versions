@@ -22,7 +22,10 @@
       {"code": "18.14.19", "name": "18.14.19  Altinity Stable"},
       {"code": "19.9.3.31", "name": "19.9.3.31"},
       {"code": "19.11.8.46", "name": "19.11.8 Altinity Stable"},
-      {"code": "19.14.3.3", "name": "19.14.3.3"}
+      {"code": "19.11.12.69", "name": "19.11.12.69 Altinity Stable"},
+      {"code": "19.13.7.57", "name": "19.13.7.57 Altinity Stable"},
+      {"code": "19.15.6.21", "name": "19.15.6.21 Altinity Stable Candidate"},
+      {"code": "19.17.4.11", "name": "19.17.4.11"}
     ]
   },
   "docker": [
@@ -32,6 +35,9 @@
     {"code": "18.14.19", "name": "18.14.19  Altinity Stable"},
     {"code": "19.9.3.31", "name": "19.9.3.31"},
     {"code": "19.11.8.46", "name": "19.11.8 Altinity Stable"},
-    {"code": "19.14.3.3", "name": "19.14.3.3"}
+    {"code": "19.11.12.69", "name": "19.11.12.69 Altinity Stable"},
+    {"code": "19.13.7.57", "name": "19.13.7.57 Altinity Stable"},
+    {"code": "19.15.6.21", "name": "19.15.6.21 Altinity Stable Candidate"},
+    {"code": "19.17.4.11", "name": "19.17.4.11"}
   ]
 }
