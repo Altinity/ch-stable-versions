@@ -19,21 +19,22 @@
       "sa-east-1": "ami-0dcf15c37a41c965f"
     },
     "versions": [
-      {"code": "18.14.19", "name": "18.14.19  Altinity Stable"},
+      {"code": "18.14.19",    "name": "18.14.19 Altinity Stable"},
       {"code": "19.11.12.69", "name": "19.11.12.69 Altinity Stable"},
-      {"code": "19.13.7.57", "name": "19.13.7.57 Altinity Stable"},
-      {"code": "19.15.6.21", "name": "19.15.6.21 Altinity Stable Candidate"},
-      {"code": "19.17.4.11", "name": "19.17.4.11"}
+      {"code": "19.13.7.57",  "name": "19.13.7.57 Altinity Stable"},
+      {"code": "19.15.6.21",  "name": "19.15.6.21 Altinity Stable Candidate"},
+      {"code": "19.17.4.11",  "name": "19.17.4.11"}
     ]
   },
   "docker": [
     {"code": "test", "name": "test"}
   ],
   "kubernetes": [
-    {"code": "18.14.19", "name": "18.14.19  Altinity Stable"},
+    {"code": "18.14.19",    "name": "18.14.19 Altinity Stable"},
     {"code": "19.11.12.69", "name": "19.11.12.69 Altinity Stable"},
-    {"code": "19.13.7.57", "name": "19.13.7.57 Altinity Stable"},
-    {"code": "19.15.6.21", "name": "19.15.6.21 Altinity Stable Candidate"},
-    {"code": "19.17.4.11", "name": "19.17.4.11"}
+    {"code": "19.13.7.57",  "name": "19.13.7.57 Altinity Stable"},
+    {"code": "19.16.10.44", "name": "19.16.10.44 Altinity Stable"},
+    {"code": "19.17.7.52",  "name": "19.17.7.52"},
+    {"code": "20.1.2.4",    "name": "20.1.2.4"}
   ]
 }
