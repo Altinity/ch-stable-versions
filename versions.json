@@ -31,11 +31,11 @@
     {"code": "test", "name": "test"}
   ],
   "kubernetes": [
-    {"code": "18.14.19",    "name": "18.14.19 Altinity Stable"},
-    {"code": "19.11.12.69", "name": "19.11.12.69 Altinity Stable"},
-    {"code": "19.13.7.57",  "name": "19.13.7.57 Altinity Stable"},
+    {"code": "18.14.19",    "name": "Deprecated - 18.14.19 Altinity Stable"},
+    {"code": "19.11.12.69", "name": "Deprecated - 19.11.12.69 Altinity Stable"},
+    {"code": "19.13.7.57",  "name": "Deprecated - 19.13.7.57 Altinity Stable"},
     {"code": "19.16.16.72", "name": "19.16.16.72 Altinity Stable"},
-    {"code": "20.1.8.41",   "name": "20.1.8.41"},
+    {"code": "20.1.9.54",   "name": "20.1.9.54"},
     {"code": "20.3.5.21",   "name": "20.3.5.21"}
   ]
 }
