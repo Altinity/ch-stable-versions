@@ -22,7 +22,7 @@
       {"code": "18.14.19",    "name": "18.14.19 Altinity Stable"},
       {"code": "19.11.12.69", "name": "19.11.12.69 Altinity Stable"},
       {"code": "19.13.7.57",  "name": "19.13.7.57 Altinity Stable"},
-      {"code": "19.16.18.83", "name": "19.16.18.83 Altinity Stable"},
+      {"code": "19.16.19.85", "name": "19.16.19.85 Altinity Stable"},
       {"code": "20.1.11.73",  "name": "20.1.11.73"},
       {"code": "20.3.8.53",   "name": "20.3.8.53"}
     ]
@@ -31,7 +31,7 @@
     {"code": "test", "name": "test"}
   ],
   "kubernetes": [
-    {"code": "19.16.18.83", "name": "19.16.18.83 Altinity Stable"},
+    {"code": "19.16.19.85", "name": "19.16.19.85 Altinity Stable"},
     {"code": "20.1.11.73",   "name": "20.1.11.73"},
     {"code": "20.3.8.53",   "name": "20.3.8.53"}
   ]
