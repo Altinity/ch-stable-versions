@@ -32,6 +32,7 @@
     {"code": "test", "name": "test"}
   ],
   "kubernetes": [
+    {"code": "19.11.12.69", "name": "19.11.12.69 Altinity Stable (deprecated)"},
     {"code": "19.16.19.85", "name": "19.16.19.85 Altinity Stable"},
     {"code": "20.1.12.86",  "name": "20.1.12.86"},
     {"code": "20.3.10.75",  "name": "20.3.10.75"},
