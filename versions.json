@@ -28,18 +28,20 @@
       {"code": "21.1.9.41",   "name": "21.1.9.41 Altinity Stable"},
       {"code": "21.3.13.9",   "name": "21.3.13.9 Altinity Stable"},
       {"code": "21.5.9.4",    "name": "21.5.9.4"},
-      {"code": "21.6.7.57",   "name": "21.6.7.57"}
+      {"code": "21.6.7.57",   "name": "21.6.7.57"},
+      {"code": "21.7.3.14",   "name": "21.7.3.14"}
     ]
   },
   "docker": [
     {"code": "test", "name": "test"}
   ],
   "kubernetes": [
-    {"code": "20.8.12.2", "name": "20.8.12.2 Altinity Stable"},
-    {"code": "21.1.7.1",  "name": "21.1.7.1 Altinity Stable"},
-    {"code": "21.1.9.41", "name": "21.1.9.41 Altinity Stable"},
-    {"code": "21.3.13.9", "name": "21.3.13.9 Altinity Stable"},
-    {"code": "21.5.9.4",  "name": "21.5.9.4"},
-    {"code": "21.6.7.57", "name": "21.6.7.57"}
+    {"code": "20.8.12.2",   "name": "20.8.12.2 Altinity Stable"},
+    {"code": "21.1.7.1",    "name": "21.1.7.1 Altinity Stable"},
+    {"code": "21.1.9.41",   "name": "21.1.9.41 Altinity Stable"},
+    {"code": "21.3.13.9",   "name": "21.3.13.9 Altinity Stable"},
+    {"code": "21.5.9.4",    "name": "21.5.9.4"},
+    {"code": "21.6.7.57",   "name": "21.6.7.57"},
+    {"code": "21.7.3.14",   "name": "21.7.3.14"}
   ]
 }
