@@ -36,8 +36,6 @@
     {"code": "test", "name": "test"}
   ],
   "kubernetes": [
-    {"code": "20.8.12.2",   "name": "20.8.12.2 Altinity Stable"},
-    {"code": "21.1.9.41",   "name": "21.1.9.41 Altinity Stable"},
     {"code": "21.3.16.5",   "name": "21.3.16.5 Altinity Stable"},
     {"code": "21.7.9.7",    "name": "21.7.9.7"},
     {"code": "21.8.8.29",   "name": "21.8.8.29"},
