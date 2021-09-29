@@ -28,7 +28,7 @@
       {"code": "21.1.9.41",   "name": "21.1.9.41 Altinity Stable"},
       {"code": "21.3.16.5",   "name": "21.3.16.5 Altinity Stable"},
       {"code": "21.7.9.7",    "name": "21.7.9.7"},
-      {"code": "21.8.7.22",   "name": "21.8.7.22 Altinity Stable"},
+      {"code": "21.8.8.29",   "name": "21.8.8.29 Altinity Stable"},
       {"code": "21.9.4.35",   "name": "21.9.4.35"}
     ]
   },
@@ -40,7 +40,7 @@
     {"code": "21.1.9.41",   "name": "21.1.9.41 Altinity Stable"},
     {"code": "21.3.16.5",   "name": "21.3.16.5 Altinity Stable"},
     {"code": "21.7.9.7",    "name": "21.7.9.7"},
-    {"code": "21.8.7.22",   "name": "21.8.7.22"},
+    {"code": "21.8.8.29",   "name": "21.8.8.29"},
     {"code": "21.9.4.35",   "name": "21.9.4.35"}
   ]
 }
