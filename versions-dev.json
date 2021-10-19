@@ -1,0 +1,44 @@
+{
+  "amazon": {
+    "regions": {
+      "us-east-1": "ami-026c8acd92718196b",
+      "us-east-2": "ami-0986c2ac728528ac2",
+      "us-west-1": "ami-068670db424b01e9a",
+      "us-west-2": "ami-07b4f3c02c7f83d59",
+      "ap-south-1": "ami-04125d804acca5692",
+      "ap-northeast-2": "ami-0794a2d1e6d99117a",
+      "ap-southeast-1": "ami-0bb35a5dad5658286",
+      "ap-southeast-2": "ami-06705195ce845509c",
+      "ap-northeast-1": "ami-09b68f5653871885f",
+      "ca-central-1": "ami-0c2a0ac8b164db9e6",
+      "eu-central-1": "ami-009c174642dba28e4",
+      "eu-west-1": "ami-01e6a0b85de033c99",
+      "eu-west-2": "ami-0c30afcb7ab02233d",
+      "eu-west-3": "ami-0119667e27598718e",
+      "eu-north-1": "ami-88de55f6",
+      "sa-east-1": "ami-0dcf15c37a41c965f"
+    },
+    "versions": [
+      {"code": "18.14.19",    "name": "18.14.19 Altinity Stable"},
+      {"code": "19.11.12.69", "name": "19.11.12.69 Altinity Stable"},
+      {"code": "19.13.7.57",  "name": "19.13.7.57 Altinity Stable"},
+      {"code": "19.16.19.85", "name": "19.16.19.85 Altinity Stable"},
+      {"code": "20.3.21.2",   "name": "20.3.21.2 Altinity Stable"},
+      {"code": "20.8.12.2",   "name": "20.8.12.2 Altinity Stable"},
+      {"code": "21.1.9.41",   "name": "21.1.9.41 Altinity Stable"},
+      {"code": "21.3.16.5",   "name": "21.3.16.5 Altinity Stable"},
+      {"code": "21.7.9.7",    "name": "21.7.9.7"},
+      {"code": "21.8.8.29",   "name": "21.8.8.29 Altinity Stable"},
+      {"code": "21.9.5.16",   "name": "21.9.5.16"}
+    ]
+  },
+  "docker": [
+    {"code": "test", "name": "test"}
+  ],
+  "kubernetes": [
+    {"code": "21.3.16.5",   "name": "21.3.16.5 Altinity Stable"},
+    {"code": "21.7.9.7",    "name": "21.7.9.7"},
+    {"code": "21.8.8.29",   "name": "21.8.8.29 Altinity Stable"},
+    {"code": "21.9.5.16",   "name": "21.9.5.16"}
+  ]
+}
