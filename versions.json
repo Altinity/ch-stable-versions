@@ -26,8 +26,8 @@
       {"code": "20.3.21.2",   "name": "20.3.21.2 Altinity Stable"},
       {"code": "20.8.12.2",   "name": "20.8.12.2 Altinity Stable"},
       {"code": "21.1.9.41",   "name": "21.1.9.41 Altinity Stable"},
-      {"code": "21.3.16.5",   "name": "21.3.16.5 Altinity Stable"},
-      {"code": "21.8.11.4",   "name": "21.8.11.4 Altinity Stable"},
+      {"code": "21.3.17.2",   "name": "21.3.17.2 Altinity Stable"},
+      {"code": "21.8.12.29",  "name": "21.8.12.29 Altinity Stable"},
       {"code": "21.9.6.24",   "name": "21.9.6.24"},
       {"code": "21.10.5.3",   "name": "21.10.5.3"},
       {"code": "21.11.6.7",   "name": "21.11.6.7"}
@@ -37,7 +37,7 @@
     {"code": "test", "name": "test"}
   ],
   "kubernetes": [
-    {"code": "21.3.16.5",                "name": "21.3.16.5 Altinity Stable (community build)"},
+    {"code": "21.3.17.2",                "name": "21.3.17.2 Altinity Stable (community build)"},
     {"code": "21.3.17.3.altinitystable", "name": "21.3.17 Altinity Stable Build", "repo": "altinity/clickhouse-server"},    
     {"code": "21.8.12.29",                "name":"21.8.12.29 Altinity Stable (community build)"},
     {"code": "21.8.12.29.altinitystable","name": "21.8.12 Altinity Stable Build", "repo": "altinity/clickhouse-server"},    
