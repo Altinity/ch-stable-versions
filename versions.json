@@ -29,8 +29,8 @@
       {"code": "21.3.17.2",   "name": "21.3.17.2 Altinity Stable"},
       {"code": "21.8.12.29",  "name": "21.8.12.29 Altinity Stable"},
       {"code": "21.9.6.24",   "name": "21.9.6.24"},
-      {"code": "21.10.5.3",   "name": "21.10.5.3"},
-      {"code": "21.11.7.9",   "name": "21.11.7.9"}
+      {"code": "21.11.7.9",   "name": "21.11.7.9"},
+      {"code": "21.12.2.17",  "name": "21.12.2.17"}
     ]
   },
   "docker": [
@@ -42,7 +42,7 @@
     {"code": "21.8.12.29",                "name":"21.8.12.29 Altinity Stable (community build)"},
     {"code": "21.8.12.29.altinitystable","name": "21.8.12 Altinity Stable Build", "repo": "altinity/clickhouse-server"},    
     {"code": "21.9.6.24",                "name": "21.9.6.24"},
-    {"code": "21.10.5.3",                "name": "21.10.5.3"},
-    {"code": "21.11.7.9",                "name": "21.11.7.9"}
+    {"code": "21.11.7.9",                "name": "21.11.7.9"},
+    {"code": "21.12.2.17",               "name": "21.12.2.17"}
   ]
 }
