@@ -29,7 +29,7 @@
       {"code": "21.3.17.2",   "name": "21.3.17.2 Altinity Stable"},
       {"code": "21.8.13.6",  "name": "21.8.12.29 Altinity Stable"},
       {"code": "21.9.6.24",   "name": "21.9.6.24"},
-      {"code": "21.11.9.1",   "name": "21.11.9.1"},
+      {"code": "21.11.10.1",   "name": "21.11.10.1"},
       {"code": "21.12.3.32",  "name": "21.12.3.32"}
     ]
   },
@@ -42,7 +42,7 @@
     {"code": "21.8.13.6",                "name": "21.8.13.6 Altinity Stable (community build)"},
     {"code": "21.8.13.1.altinitystable", "name": "21.8.13 Altinity Stable Build", "repo": "altinity/clickhouse-server"},    
     {"code": "21.9.6.24",                "name": "21.9.6.24"},
-    {"code": "21.11.9.1",                "name": "21.11.9.1"},
+    {"code": "21.11.10.1",               "name": "21.11.10.1"},
     {"code": "21.12.3.32",               "name": "21.12.3.32"}
   ]
 }
