@@ -43,6 +43,6 @@
     {"code": "21.11.11.1",               "name": "21.11.11.1"},
     {"code": "21.12.4.1",                "name": "21.12.4.1"},
     {"code": "22.1.3.7",                 "name": "22.1.3.7"},
-    {"code": "22.2.3.5", "name": "22.2.3.5", "repo": "clickhouse/clickhouse-server"}  
+    {"code": "22.2.2.1", "name": "22.2.2.1", "repo": "clickhouse/clickhouse-server"}  
   ]
 }
