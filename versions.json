@@ -27,7 +27,7 @@
       {"code": "20.8.12.2",   "name": "20.8.12.2 Altinity Stable"},
       {"code": "21.1.9.41",   "name": "21.1.9.41 Altinity Stable"},
       {"code": "21.3.20.1",   "name": "21.3.20.1 Altinity Stable"},
-      {"code": "21.8.13.6",   "name": "21.8.12.29 Altinity Stable"},
+      {"code": "21.8.13.6",   "name": "21.8.13.6 Altinity Stable"},
       {"code": "21.11.11.1",  "name": "21.11.11.1"},
       {"code": "22.1.3.7",    "name": "22.1.3.7"},
       {"code": "22.2.3.5",    "name": "22.2.3.5"}
@@ -44,6 +44,7 @@
     {"code": "21.11.11.1",               "name": "21.11.11.1"},
     {"code": "21.12.4.1",                "name": "21.12.4.1"},
     {"code": "22.1.3.7",                 "name": "22.1.3.7"},
-    {"code": "22.2.3.5",                 "name": "22.2.3.5", "repo": "clickhouse/clickhouse-server"}
+    {"code": "22.2.3.5",                 "name": "22.2.3.5", "repo": "clickhouse/clickhouse-server"},
+    {"code": "22.3.2.2",                 "name": "22.3.2.2", "repo": "clickhouse/clickhouse-server"}
   ]
 }
