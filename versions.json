@@ -37,6 +37,7 @@
     {"code": "test", "name": "test"}
   ],
   "kubernetes": [
+    {"code": "21.1.11.3.altinitystable", "name": "21.1.11 Altinity Stable Build", "repo": "altinity/clickhouse-server"},    
     {"code": "21.3.20.1",                "name": "21.3.20.1 Altinity Stable (community build)"},
     {"code": "21.3.20.2.altinitystable", "name": "21.3.20 Altinity Stable Build", "repo": "altinity/clickhouse-server"},    
     {"code": "21.8.15.7",                "name": "21.8.15.7 Altinity Stable (community build)", "repo": "clickhouse/clickhouse-server"},
