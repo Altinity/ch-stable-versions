@@ -46,6 +46,6 @@
     {"code": "22.3.10.22",               "name": "22.3.10.22 Altinity Stable (community build)", "repo": "clickhouse/clickhouse-server"},
     {"code": "22.3.10.24.altinitystable","name": "22.3.10 Altinity Stable Build", "repo": "altinity/clickhouse-server"},
     {"code": "22.6.7.7",                 "name": "22.6.7.7", "repo": "clickhouse/clickhouse-server"},
-    {"code": "22.8.4.7",                 "name": "22.8.4.7", "repo": "clickhouse/clickhouse-server"}
+    {"code": "22.8.5.29",                "name": "22.8.5.29", "repo": "clickhouse/clickhouse-server"}
   ]
 }
