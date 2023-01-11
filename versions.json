@@ -48,6 +48,6 @@
     {"code": "22.6.8.35",                "name": "22.6.8.35", "repo": "clickhouse/clickhouse-server"},
     {"code": "22.8.12.45",               "name": "22.8.12.45", "repo": "clickhouse/clickhouse-server"},
     {"code": "22.10.6.3",                "name": "22.10.6.3", "repo": "clickhouse/clickhouse-server"},
-    {"code": "22.12.3.5",                "name": "22.12.3.5", "repo": "clickhouse/clickhouse-server"},
+    {"code": "22.12.3.5",                "name": "22.12.3.5", "repo": "clickhouse/clickhouse-server"}
   ]
 }
