@@ -41,9 +41,9 @@
     {"code": "21.8.15.7",                 "name": "21.8.15.7 Altinity Stable (upstream build)", "repo": "clickhouse/clickhouse-server"},
     {"code": "21.8.15.15.altinitystable", "name": "21.8.15 Altinity Stable Build", "repo": "altinity/clickhouse-server"},    
     {"code": "22.3.15.33",                "name": "22.3.15.33 Altinity Stable (upstream build)", "repo": "clickhouse/clickhouse-server"},
-    {"code": "22.3.15.34.altinitystable", "name": "22.3.15 Altinity Stable Build", "repo": "altinity/clickhouse-server"},
+    {"code": "22.3.12.21.altinitystable", "name": "22.3.12 Altinity Stable Build", "repo": "altinity/clickhouse-server"},
     {"code": "22.8.13.20",                "name": "22.8.13.20 Altinity Stable (upstream build)", "repo": "clickhouse/clickhouse-server"},
-    {"code": "22.8.13.21.altinitystable", "name": "22.8.13 Altinity Stable Build", "repo": "altinity/clickhouse-server"},    
+    {"code": "22.8.13.21.altinitytest-alpine", "name": "22.8.13 Altinity Stable Build", "repo": "altinity/clickhouse-server"},    
     {"code": "22.12.3.5",                 "name": "22.12.3.5", "repo": "clickhouse/clickhouse-server"},
     {"code": "23.1.3.5",                  "name": "23.1.3.5", "repo": "clickhouse/clickhouse-server"}
   ]
