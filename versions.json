@@ -50,4 +50,5 @@
     {"code": "24.3.12.76.altinitystable", "name": "24.3.12.76 Altinity Stable Build", "repo": "altinity/clickhouse-server"},
     {"code": "24.8.9.95",                 "name": "24.8.9.95", "repo": "clickhouse/clickhouse-server"},
     {"code": "24.10.3.21",                "name": "24.10.3.21","repo": "clickhouse/clickhouse-server"}
+  ]
 }
