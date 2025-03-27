@@ -35,9 +35,7 @@
   "docker": [
     {"code": "test", "name": "test"}
   ],
-  "kubernetes": [
-    {"code": "21.3.20.2.altinitystable",  "name": "21.3.20 Altinity Stable Build", "repo": "altinity/clickhouse-server"},    
-    {"code": "21.8.15.15.altinitystable", "name": "21.8.15 Altinity Stable Build", "repo": "altinity/clickhouse-server"},    
+  "kubernetes": [ 
     {"code": "22.3.15.33",                "name": "22.3.15.33 Altinity Stable (upstream build)", "repo": "clickhouse/clickhouse-server"},
     {"code": "22.3.15.34.altinitystable", "name": "22.3.15 Altinity Stable Build", "repo": "altinity/clickhouse-server"},
     {"code": "22.8.20.11",                "name": "22.8.20.11 Altinity Stable (upstream build)", "repo": "clickhouse/clickhouse-server"},
