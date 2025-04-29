@@ -52,5 +52,8 @@
     {"code": "24.12.6.70",                "name": "24.12.6.70","repo": "clickhouse/clickhouse-server"},
     {"code": "25.1.8.25",                 "name": "25.1.8.25","repo": "clickhouse/clickhouse-server"},
     {"code": "25.3.3.42",                 "name": "25.3.3.42","repo": "clickhouse/clickhouse-server"}  
+  ],
+  "swarm": [
+    {"code": "25.2.2.27772.altinityantalya", "name": "latest"}
   ]
 }
