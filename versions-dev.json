@@ -55,7 +55,7 @@
     {"code": "25.8.9.20490.altinityantalya", "name": "25.8.9.20490 Altinity Antalya Edge Build", "repo": "altinity/clickhouse-server"},     
     {"code": "25.6.13.41",                "name": "25.6.13.41","repo": "clickhouse/clickhouse-server"},
     {"code": "25.7.8.71",                 "name": "25.7.8.71","repo": "clickhouse/clickhouse-server"},
-    {"code": "25.8.11.66",                "name": "25.8.11.66","repo": "clickhouse/clickhouse-server"}
+    {"code": "25.8.12.129",               "name": "25.8.12.129","repo": "clickhouse/clickhouse-server"}
   ],
   "swarm": [
     {"code": "25.8.9.20490.altinityantalya", "name": "latest"}
