@@ -59,6 +59,6 @@
     {"code": "25.12.8.9",                 "name": "25.12.8.9","repo": "clickhouse/clickhouse-server"}
   ],
   "swarm": [
-    {"code": "25.8.16.20002.altinityantalya", "name": "latest"}
+    {"code": "26.3.16.20002.altinityantalya", "name": "latest"}
   ]
 }
