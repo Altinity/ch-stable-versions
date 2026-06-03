@@ -60,7 +60,7 @@
     {"code": "26.1.12.23",                "name": "26.1.12.23","repo": "clickhouse/clickhouse-server"},
     {"code": "26.1.11.20001.altinityantalya", "name": "26.1.11.20001 Altinity Antalya", "repo": "altinity/clickhouse-server"},
     {"code": "26.3.10.20001.altinityantalya", "name": "26.3.10.20001 Altinity Antalya", "repo": "altinity/clickhouse-server"},    
-    {"code": "26.3.10.62",                 "name": "26.3.10.62 ClickHouse LTS","repo": "clickhouse/clickhouse-server"}
+    {"code": "26.3.12.3",                 "name": "26.3.12.3 ClickHouse LTS","repo": "clickhouse/clickhouse-server"}
   ],
   "swarm": [
     {"code": "26.3.10.20001.altinityantalya", "name": "latest"}
